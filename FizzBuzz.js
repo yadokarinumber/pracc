@@ -9,3 +9,5 @@ for(var i = 0;i <= 100; i++){
         console.log(i)
     }
 }
+
+console.log("森田が追記したお");
