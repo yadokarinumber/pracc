@@ -10,4 +10,10 @@ for(var i = 0;i <= 100; i++){
     }
 }
 
+
+
+//これは大塚が追記
 console.log("森田が追記したお");
+
+//それをアンクが更に追記
+console.log("by ankh")
